@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.3] - 2021-04-02
+### Added
+- Support creating, updating, and deleting resources for: user groups.
+
 ## [0.1.2] - 2021-04-01
 ### Added
 - Support creating, updating, and deleting resources for: OU cloud access roles and project cloud access roles.
